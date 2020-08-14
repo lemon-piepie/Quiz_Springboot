@@ -19,7 +19,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc01ed13-dd50-47e1-9d38-faee4cb899bf" name="Default Changelist" comment="" />
+    <list default="true" id="bc01ed13-dd50-47e1-9d38-faee4cb899bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/rslist/ItemTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/thoughtworks/rslist/api/RsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/thoughtworks/rslist/dominate/RsEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/thoughtworks/rslist/dominate/UserDetiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/thoughtworks/rslist/RsListApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/thoughtworks/rslist/RsListApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.thoughtworks.rslist.RsListApplicationTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.thoughtworks.rslist.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.thoughtworks.rslist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.thoughtworks.rslist.RsListApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/rslist/api/itemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/rslist/api/itemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/rslist/dominate/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/rslist/dominate/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thoughtworks/rslist/RsListApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/rslist/RsListApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,13 +94,13 @@
       <recent name="com.thoughtworks.rslist.dominate" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RsListApplicationTests">
-    <configuration name="RsListApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.ItemTests">
+    <configuration name="ItemTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.RsListApplicationTests&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.ItemTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -87,12 +114,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RsListApplicationTests.ShouldNotGetUserWhenExist" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ItemTests.shouldGetOneItem" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.RsListApplicationTests.ShouldNotGetUserWhenExist&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.ItemTests.shouldGetOneItem&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -106,12 +133,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RsListApplicationTests.nameShouldNotEmpty" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ItemTests.shouldGetOneList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.RsListApplicationTests.nameShouldNotEmpty&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.ItemTests.shouldGetOneList&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -125,12 +152,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RsListApplicationTests.shouldAddOnlyEventToListWhenUserExist" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ItemTests.shouldGetRsList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.RsListApplicationTests.shouldAddOnlyEventToListWhenUserExist&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.ItemTests.shouldGetRsList&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -144,12 +171,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RsListApplicationTests.shouldAddRsEventToListWhenUserDoNotExist" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RsListApplicationTests.shouldGetOneItem" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.RsListApplicationTests.shouldAddRsEventToListWhenUserDoNotExist&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.thoughtworks.rslist.RsListApplicationTests.shouldGetOneItem&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -165,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.RsListApplicationTests" />
-        <item itemvalue="Gradle.RsListApplicationTests.shouldAddOnlyEventToListWhenUserExist" />
-        <item itemvalue="Gradle.RsListApplicationTests.shouldAddRsEventToListWhenUserDoNotExist" />
-        <item itemvalue="Gradle.RsListApplicationTests.ShouldNotGetUserWhenExist" />
-        <item itemvalue="Gradle.RsListApplicationTests.nameShouldNotEmpty" />
+        <item itemvalue="Gradle.ItemTests" />
+        <item itemvalue="Gradle.ItemTests.shouldGetRsList" />
+        <item itemvalue="Gradle.ItemTests.shouldGetOneList" />
+        <item itemvalue="Gradle.ItemTests.shouldGetOneItem" />
+        <item itemvalue="Gradle.RsListApplicationTests.shouldGetOneItem" />
       </list>
     </recent_temporary>
   </component>
@@ -208,22 +235,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596619579303" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1597389889747">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1597393633675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597389889747" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1597389889747">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597393633675" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1597393633675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597389889747" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1597389889746">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597393633675" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1597393633675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597389889746" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1597389889747">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597393633675" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1597393633675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597389889747" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597393633675" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1596618850812">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -240,5 +267,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1596618850812" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1597391392061">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1597391392061" />
   </component>
 </project>
